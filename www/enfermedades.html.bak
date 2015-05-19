@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<link rel="stylesheet" href="css/jquery.mobile.structure-1.4.5.css" />
+	<link rel="stylesheet" href="css/jquery.mobile-1.4.5.min.css">
+
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+
+	<link rel="stylesheet" href="css/bud-green.theme.css">
+	<link href="css/reset.css" rel="stylesheet"/>
+	<link href="css/layout.css" rel="stylesheet"/>
+	<link href="css/components.css" rel="stylesheet"/>
+	<link href="css/plugins.css" rel="stylesheet"/>
+	<link href="css/themes/bud-green.theme.css" rel="stylesheet" id="theme"/>
+	<link href="css/custom.css" rel="stylesheet"/>
+	<link href="css/animate.min.css" rel="stylesheet"/>
+
+	<script src="js/jquery-1.9.1.min.js"></script>
+	<script src="js/jquery.mobile-1.4.5.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+</head>
+	<body>
+		<div data-role="page" id="cultivos" class="main-content animated fadeInLeft">
+			<div class="panel rounded shadow panel-default">
+				<div class="panel-heading" style="background:white;">
+						<img src="logo1.png" width="90%;"/>
+				</div>
+				<div data-role="main" class="panel-body" style="background: none repeat scroll 0% 0% rgb(111, 163, 98) ! important;">
+					<div class="header-content" id="tipoCultivo">
+					
+					</div>
+					<div class="body-content">
+						<div id="blog-grid" class="row">
+						</div>
+				</div>
+				<div class="form-footer">
+					<center>Ministerio de Agroindustria y Tecnología <br/>Gobierno de Mendoza</center>
+					<div class="pull-left">
+						<button id="volver" href="index.html" class="btn btn-danger mr-5">Volver</button>
+					</div>
+					<div class="pull-right">
+						<button id="salir" href="index.html" class="btn btn-danger mr-5">Salir</button>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+	</div> 
+<script>
+		$(document).on('pageinit', '#cultivos', function(){
+			
+	var datos = location.search; 
+			datos = datos.substr(1,datos.length);
+			var arrVariables = datos.split ("&"); 
+			// arrVariables = ["tipoCultivos=???", "???=???"] 
+			var arrVar0 = arrVariables[0].split ("="); 
+			var arrVar1 = arrVariables[1].split ("=");
+			var arrVar2 = arrVariables[2].split ("="); 
+// 			arrVar0 = ["tipoCultivo","???"] 
+// 			arrVar1 = ["cultivoID","???"]
+// 			arrVar2 = ["cultivoNombre","???"] 
+			var buscar="%20"
+			var tipoCultivo = arrVar0[1];
+			tipoCultivo = tipoCultivo.toUpperCase();
+			var cultivoNombre = arrVar2[1];
+			cultivoNombre = cultivoNombre.toUpperCase();
+			cultivoNombre = cultivoNombre.replace(new RegExp(buscar,"g") ," ");
+			if(tipoCultivo == 'VID'){
+				$('#tipoCultivo').append('<h2>' + tipoCultivo + '</h2>');			
+			} else {
+				$('#tipoCultivo').append('<h2>' + tipoCultivo + ' - ' + cultivoNombre + '</h2>');			
+			}
+
+			
+			
+			var url = 'http://179.43.121.12/AGR/enfermedades/publico/enfermedades?' + datos;
+			
+			$("#volver").on("click",function(event) {
+				window.location.replace('index.html');
+			});
+
+			$("#salir").on("click",function(event) {
+				navigator.app.exitApp();
+			});
+
+			$.ajax({
+		        url: url,
+		        dataType: "json",
+		        async: true,
+		        success: function (result) {
+		        	$.each(result, function(i, row) {
+
+						var blog = '<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12"><div class="blog-item rounded shadow"><a id="enfermedad' + row.id +'" href="#pagetwo?cultivo=' + row.id  + '" class="blog-img">';
+
+						blog = blog + '<img src="' + row.url + '" width="90%;" class="img-responsive full-width" alt="..." /></a>';
+
+                        blog = blog + '<div class="blog-details"><div class="ribbon-wrapper"><div class="ribbon ribbon-danger">'+ row.nombre + '</div></div><h4 class="blog-title" style="text-align:center;"></h4></div></div></div>';
+
+			            $('#blog-grid').append(blog);
+			            $("#enfermedad"+ row.id + "").on("click",function(event) {
+							window.location.replace('momento.html?'+datos+'&idEnfermedad='+row.id+'&enfermedadNombre='+row.nombre);
+						});
+			        });
+		        },
+		        error: function (request,error) {
+		            alert('Ha ocurrido un error de red, intente nuevamente por favor!');
+		        }
+		    });
+		});
+		</script>
+	</body>
+</html>
