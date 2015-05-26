@@ -28,7 +28,7 @@
 		<div data-role="page" id="cultivos" class="main-content animated fadeInLeft">
 			<div class="panel rounded shadow panel-default">
 				<div class="panel-heading" style="background:white;">
-						<img src="logo1.png" width="90%;"/>
+						<img src="img/logo_h.png" width="100%;"/>
 				</div>
 				<div data-role="main" class="panel-body" style="background: none repeat scroll 0% 0% rgb(111, 163, 98) ! important;">
 					<div class="header-content" id="tipoCultivo">
@@ -78,7 +78,7 @@
 
 			
 			
-			var url = 'http://179.43.121.12/AGR/enfermedades/publico/enfermedades?' + datos;
+			var url = 'enfermedad_frutos.json';
 			
 			$("#volver").on("click",function(event) {
 				window.location.replace('index.html');
@@ -93,7 +93,14 @@
 		        dataType: "json",
 		        async: true,
 		        success: function (result) {
-		        	$.each(result, function(i, row) {
+		        	var arreglo = [];
+					if(cultivoNombre == 'ALMENDRO'){
+						arreglo = result.almendro;
+					} else if(cultivoNombre == 'DAMASCO'){
+						arreglo = result.damasco;
+					}
+
+					$.each(arreglo, function(i, row) {
 
 						var blog = '<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12"><div class="blog-item rounded shadow"><a id="enfermedad' + row.id +'" href="#pagetwo?cultivo=' + row.id  + '" class="blog-img">';
 
