@@ -39,7 +39,7 @@
 						</div>
 				</div>
 				<div class="form-footer">
-					<center>Ministerio de Agroindustria y Tecnología <br/>Gobierno de Mendoza</center>
+					<center>Ministerio de Agroindustria y Tecnolog&iacute;a <br/>Gobierno de Mendoza<br/><i>Ante cualquier duda consulte a su ingeniero agronomo</i></center>
 					<div class="pull-left">
 						<button id="volver" href="index.html" class="btn btn-danger mr-5">Volver</button>
 					</div>
@@ -52,6 +52,8 @@
 		</div>
 	</div> 
 <script>
+
+		
 		$(document).on('pageinit', '#cultivos', function(){
 			
 	var datos = location.search; 
@@ -98,6 +100,30 @@
 						arreglo = result.almendro;
 					} else if(cultivoNombre == 'DAMASCO'){
 						arreglo = result.damasco;
+					}else if(cultivoNombre == 'CEREZO'){
+						arreglo = result.cerezo;
+					}else if(cultivoNombre == 'CIRUELA'){
+						arreglo = result.ciruela;
+					}else if(cultivoNombre == 'DURAZNERO'){
+						arreglo = result.duraznero;
+					}else if(cultivoNombre == 'MANZANA'){
+						arreglo = result.manzana;
+					}else if(cultivoNombre == 'OLIVO'){
+						arreglo = result.olivo;
+					}else if(cultivoNombre == 'PERA'){
+						arreglo = result.pera;
+					}else if(cultivoNombre == 'ZAPALLOS'){
+						arreglo = result.zapallos;
+					}else if(cultivoNombre == 'TOMATES'){
+						arreglo = result.tomates;
+					}else if(cultivoNombre == 'PIMIENTOS'){
+						arreglo = result.pimientos;
+					}else if(cultivoNombre == 'CEBOLLAS'){
+						arreglo = result.cebolla;
+					}else if(cultivoNombre == 'AJO'){
+						arreglo = result.ajo;
+					}else if(cultivoNombre == 'VID'){
+						arreglo = result.vid;
 					}
 
 					$.each(arreglo, function(i, row) {
@@ -106,11 +132,15 @@
 
 						blog = blog + '<img src="' + row.url + '" width="90%;" class="img-responsive full-width" alt="..." /></a>';
 
-                        blog = blog + '<div class="blog-details"><div class="ribbon-wrapper"><div class="ribbon ribbon-danger">'+ row.nombre + '</div></div><h4 class="blog-title" style="text-align:center;"></h4></div></div></div>';
+                        blog = blog + '<div class="blog-details"><div class="ribbon-wrapper"><div class="ribbon ribbon-danger">'+ row.nombre + '</div></div><h4 class="blog-title" style="text-align:center;">' + row.nombre + '</h4></div></div></div>';
 
 			            $('#blog-grid').append(blog);
 			            $("#enfermedad"+ row.id + "").on("click",function(event) {
-							window.location.replace('momento.html?'+datos+'&idEnfermedad='+row.id+'&enfermedadNombre='+row.nombre);
+							
+							//var url = 'momento.html?cultivo='+cultivoNombre+'&enfermedad='+row.nombre;
+							var url =  row.pdf;
+							window.location.replace(url);
+
 						});
 			        });
 		        },

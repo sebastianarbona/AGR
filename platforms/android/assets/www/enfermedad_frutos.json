@@ -1,15 +1,169 @@
 {"almendro":[
-{"nombre":"Aranuelas", "url":"Frutales/Almendro/Aranuelas/imagen.jpg", "pdf":"Frutales/Almendro/Aranuelas/Aranuelas.pdf", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
-{"nombre":"Cochinilla", "url":"Frutales/Almendro/Cochinilla/imagen.jpg", "pdf":"Frutales/Almendro/Cochinilla/Cochinilla.pdf", "doc":"Frutales/Almendro/Cochinilla/Cochinilla.docx"},
-{"nombre":"Oidio", "url":"Frutales/Almendro/Oidio/imagen.jpg", "pdf":"Frutales/Almendro/Oidio/Oidio.pdf", "doc":"Frutales/Almendro/Oidio/Oidio.docx"},
-{"nombre":"Podredumbre Morena", "url":"Frutales/Almendro/Podredumbre Morena/imagen.jpg", "pdf":"Frutales/Almendro/Podredumbre Morena/Podredumbre Morena.pdf", "doc":"Frutales/Almendro/Podredumbre Morena/Podredumbre Morena.docx"}
-
+{"id":1, "nombre":"Ara&#241;uelas", "url":"Frutales/Almendro/Aranuelas/imagen.jpg", "pdf":"Frutales/Almendro/Aranuelas/Aranuela.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":2,"nombre":"Cochinilla", "url":"Frutales/Almendro/Cochinilla/imagen.jpg", "pdf":"Frutales/Almendro/Cochinilla/Cochinilla.htm", "doc":"Frutales/Almendro/Cochinilla/Cochinilla.docx"},
+{"id":3,"nombre":"Oidio", "url":"Frutales/Almendro/Oidio/imagen.jpg", "pdf":"Frutales/Almendro/Oidio/Oidio.htm", "doc":"Frutales/Almendro/Oidio/Oidio.docx"},
+{"id":4,"nombre":"Podredumbre Morena", "url":"Frutales/Almendro/Podredumbre Morena/imagen.jpg", "pdf":"Frutales/Almendro/Podredumbre Morena/Podredumbre morena.htm", "doc":"Frutales/Almendro/Podredumbre Morena/Podredumbre Morena.docx"},
+{"id":5,"nombre":"Polilla Oriental", "url":"Frutales/Almendro/Polilla oriental de la fruta/imagen.jpg", "pdf":"Frutales/Almendro/Polilla oriental de la fruta/polilla.htm", "doc":"Frutales/Almendro/Polilla oriental de la fruta/polilla.docx"},
+{"id":6,"nombre":"Pulgon Verde", "url":"Frutales/Almendro/Pulgon Verde/imagen.jpg", "pdf":"Frutales/Almendro/Pulgon Verde/Pulgon Verde.htm", "doc":"Frutales/Almendro/Pulgon Verde/Pulgon Verde.docx"},
+{"id":7,"nombre":"Roya", "url":"Frutales/Almendro/Roya/imagen.png", "pdf":"Frutales/Almendro/Roya/Roya.htm", "doc":"Frutales/Almendro/Roya/Roya.docx"},
+{"id":8,"nombre":"Taladrillo", "url":"Frutales/Almendro/Taladrillo de los frutales/imagen.jpg", "pdf":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":9,"nombre":"Trips", "url":"Frutales/Almendro/Trips/imagen.jpg", "pdf":"Frutales/Almendro/Trips/Trips.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10,"nombre":"Viruela", "url":"Frutales/Almendro/Viruela/imagen.jpg", "pdf":"Frutales/Almendro/Viruela/Viruela.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"}
+],
+"ciruela":[
+{"id":1, "nombre":"Ara&#241;uelas", "url":"Frutales/Ciruela/Aranuelas/imagen.jpg", "pdf":"Frutales/Ciruela/Aranuelas/Aranuela.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Cochinilla", "url":"Frutales/Ciruela/Cochinilla/imagen.jpg", "pdf":"Frutales/Ciruela/Cochinilla/Cochinilla.htm", "doc":"Frutales/Ciruela/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Oidio", "url":"Frutales/Ciruela/Oidio/imagen.jpg", "pdf":"Frutales/Ciruela/Oidio/Oidio.htm", "doc":"Frutales/Ciruela/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Podredumbre Morena", "url":"Frutales/Ciruela/Podredumbre Morena/imagen.png", "pdf":"Frutales/Ciruela/Podredumbre Morena/Podredumbre.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Pulgon Verde", "url":"Frutales/Ciruela/Pulgon Verde/imagen.jpg", "pdf":"Frutales/Ciruela/Pulgon Verde/Pulgon Verde.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Roya", "url":"Frutales/Ciruela/Roya/imagen.png", "pdf":"Frutales/Ciruela/Roya/Roya.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":9,"nombre":"Taladrillo", "url":"Frutales/Ciruela/Taladrillo de los frutales/imagen.jpg", "pdf":"Frutales/Ciruela/Taladrillo de los frutales/Taladrillo.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10,"nombre":"Trips", "url":"Frutales/Ciruela/Trips/imagen.jpg", "pdf":"Frutales/Ciruela/Trips/Trips.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":11,"nombre":"Viruela", "url":"Frutales/Ciruela/Viruela/imagen.jpg", "pdf":"Frutales/Ciruela/Viruela/Viruela.htm", "doc":"Frutales/Cerezo/Taladrillo de los frutales/Taladrillo.docx"}
+],
+"cerezo":[
+{"id":1, "nombre":"Ara&#241;uelas", "url":"Frutales/Cerezo/Aranuelas/imagen.jpg", "pdf":"Frutales/Cerezo/Aranuelas/Aranuela.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Cochinilla", "url":"Frutales/Cerezo/Cochinilla/imagen.jpg", "pdf":"Frutales/Cerezo/Cochinilla/Cochinilla.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Oidio", "url":"Frutales/Cerezo/Oidio/imagen.jpg", "pdf":"Frutales/Cerezo/Oidio/Oidio.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Podredumbre Morena", "url":"Frutales/Cerezo/Podredumbre Morena/imagen.png", "pdf":"Frutales/Cerezo/Podredumbre Morena/Podredumbre.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Polilla oriental de la fruta", "url":"Frutales/Cerezo/Polilla oriental de la fruta/imagen.jpg", "pdf":"Frutales/Cerezo/Polilla oriental de la fruta/Polilla.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Pulgon Verde", "url":"Frutales/Cerezo/Pulgon Verde/imagen.jpg", "pdf":"Frutales/Cerezo/Pulgon Verde/Pulgon.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Roya", "url":"Frutales/Cerezo/Roya/imagen.png", "pdf":"Frutales/Cerezo/Roya/Roya.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":9, "nombre":"Taladrillo", "url":"Frutales/Cerezo/Taladrillo de los frutales/imagen.jpg", "pdf":"Frutales/Cerezo/Taladrillo de los frutales/Taladrillo.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10,"nombre":"Trips", "url":"Frutales/Cerezo/Trips/imagen.jpg", "pdf":"Frutales/Cerezo/Trips/Trips.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":11,"nombre":"Viruela", "url":"Frutales/Cerezo/Viruela/imagen.jpg", "pdf":"Frutales/Cerezo/Viruela/Viruela.htm", "doc":"Frutales/Cerezo/Taladrillo de los frutales/Taladrillo.docx"}
 ],
 "damasco":[
-{"nombre":"Aranuelas", "url":"Frutales/Almendro/Aranuelas/imagen.jpg", "pdf":"Frutales/Almendro/Aranuelas/Aranuelas.pdf", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
-{"nombre":"Cochinilla", "url":"Frutales/Almendro/Cochinilla/imagen.jpg", "pdf":"Frutales/Almendro/Cochinilla/Cochinilla.pdf", "doc":"Frutales/Almendro/Cochinilla/Cochinilla.docx"},
-{"nombre":"Oidio", "url":"Frutales/Almendro/Oidio/imagen.jpg", "pdf":"Frutales/Almendro/Oidio/Oidio.pdf", "doc":"Frutales/Almendro/Oidio/Oidio.docx"},
-{"nombre":"Podredumbre Morena", "url":"Frutales/Almendro/Podredumbre Morena/imagen.jpg", "pdf":"Frutales/Almendro/Podredumbre Morena/Podredumbre Morena.pdf", "doc":"Frutales/Almendro/Podredumbre Morena/Podredumbre Morena.docx"}
+{"id":1, "nombre":"Ara&#241;uelas", "url":"Frutales/Damasco/Aranuelas/imagen.jpg", "pdf":"Frutales/Damasco/Aranuelas/Aranuela.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Cochinilla", "url":"Frutales/Damasco/Cochinilla/imagen.jpg", "pdf":"Frutales/Damasco/Cochinilla/Cochinilla.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Oidio", "url":"Frutales/Damasco/Oidio/imagen.png", "pdf":"Frutales/Damasco/Oidio/Oidio.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Podredumbre Morena", "url":"Frutales/Damasco/Podredumbre Morena/imagen.png", "pdf":"Frutales/Damasco/Podredumbre Morena/Podredumbre.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Pulgon Verde", "url":"Frutales/Damasco/Pulgon Verde/imagen.jpg", "pdf":"Frutales/Damasco/Pulgon Verde/Pulgon Verde.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Roya", "url":"Frutales/Damasco/Roya/imagen.jpg", "pdf":"Frutales/Damasco/Roya/Roya.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":9,"nombre":"Taladrillo", "url":"Frutales/Damasco/Taladrillo de los frutales/imagen.jpg", "pdf":"Frutales/Damasco/Taladrillo de los frutales/Taladrillo.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10,"nombre":"Trips", "url":"Frutales/Damasco/Trips/imagen.jpg", "pdf":"Frutales/Damasco/Trips/Trips.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":11,"nombre":"Viruela", "url":"Frutales/Damasco/Viruela/imagen.png", "pdf":"Frutales/Damasco/Viruela/Viruela.htm", "doc":"Frutales/Cerezo/Taladrillo de los frutales/Taladrillo.docx"}
+],
+"duraznero":[
+{"id":1, "nombre":"Ara&#241;uelas", "url":"Frutales/Duraznero/Aranuelas/imagen.jpg", "pdf":"Frutales/Duraznero/Aranuelas/Aranuela.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Cochinilla", "url":"Frutales/Duraznero/Cochinilla/imagen.jpg", "pdf":"Frutales/Duraznero/Cochinilla/Cochinilla.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Oidio", "url":"Frutales/Duraznero/Oidio/imagen.png", "pdf":"Frutales/Duraznero/Oidio/Oidio.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Podredumbre Morena", "url":"Frutales/Duraznero/Podredumbre Morena/imagen.png", "pdf":"Frutales/Duraznero/Podredumbre Morena/Podredumbre.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Polilla oriental de la fruta", "url":"Frutales/Duraznero/Polilla oriental de la fruta/imagen.jpg", "pdf":"Frutales/Duraznero/Polilla oriental de la fruta/Polilla.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Pulgon Verde", "url":"Frutales/Duraznero/Pulgon Verde/imagen.jpg", "pdf":"Frutales/Duraznero/Pulgon Verde/Pulgon Verde.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Roya", "url":"Frutales/Duraznero/Roya/imagen.png", "pdf":"Frutales/Duraznero/Roya/Roya.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":2,"nombre":"Torque", "url":"Frutales/Duraznero/Torque/imagen.png", "pdf":"Frutales/Duraznero/Torque/Torque.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":9,"nombre":"Taladrillo", "url":"Frutales/Duraznero/Taladrillo de los frutales/imagen.jpg", "pdf":"Frutales/Duraznero/Taladrillo de los frutales/Taladrillo.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10,"nombre":"Trips", "url":"Frutales/Duraznero/Trips/imagen.jpg", "pdf":"Frutales/Duraznero/Trips/Trips.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":11,"nombre":"Viruela", "url":"Frutales/Duraznero/Viruela/imagen.jpg", "pdf":"Frutales/Duraznero/Viruela/Viruela.htm", "doc":"Frutales/Cerezo/Taladrillo de los frutales/Taladrillo.docx"}
+],
+"manzana":[
+{"id":1, "nombre":"Gusano", "url":"Frutales/Manzana/Gusano (carpocapsa)/imagen.jpg", "pdf":"Frutales/Manzana/Gusano (carpocapsa)/Gusano.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":2, "nombre":"Piojo de San Jose", "url":"Frutales/Manzana/Piojo de San Jose/imagen.png", "pdf":"Frutales/Manzana/Piojo de San Jose/Piojo.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Oidio", "url":"Frutales/Manzana/Oidio/imagen.png", "pdf":"Frutales/Manzana/Oidio/Oidio.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Pulgon Lanigero", "url":"Frutales/Manzana/Pulgon Lanigero/imagen.jpg", "pdf":"Frutales/Manzana/Pulgon Lanigero/Pulgon.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Sarna", "url":"Frutales/Manzana/Sarna del Manzano/imagen.jpg", "pdf":"Frutales/Manzana/Sarna del Manzano/Sarna.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"}
+],
+"olivo":[
+{"id":1, "nombre":"Antracnosis", "url":"Frutales/Olivo/Antracnosis/imagen.jpg", "pdf":"Frutales/Olivo/Antracnosis/Antracnosis.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":2, "nombre":"Cercosporosis", "url":"Frutales/Olivo/Cercosporiosis/imagen.jpg", "pdf":"Frutales/Olivo/Cercosporiosis/Cercosporiosis.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Cochinilla", "url":"Frutales/Olivo/Cochinilla de las yemas/imagen.jpg", "pdf":"Frutales/Olivo/Cochinilla de las yemas/Cochinilla.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Cochinilla H", "url":"Frutales/Olivo/Cochinilla H/imagen.jpg", "pdf":"Frutales/Olivo/Cochinilla H/Cochinilla H.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Cochinillas Diaspididos", "url":"Frutales/Olivo/Cochinillas Diaspididos/imagen.jpg", "pdf":"Frutales/Olivo/Cochinillas Diaspididos/Cochinillas Diaspididos.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Eriofidos", "url":"Frutales/Olivo/Eriofidos/imagen.jpg", "pdf":"Frutales/Olivo/Eriofidos/Eriofidos.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Ojo de pavo", "url":"Frutales/Olivo/Ojo de pavo/imagen.jpg", "pdf":"Frutales/Olivo/Ojo de pavo/Ojo de pavo.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Taladrillo", "url":"Frutales/Olivo/Taladrillo del olivo/imagen.jpg", "pdf":"Frutales/Olivo/Taladrillo del olivo/Taladrillo.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":9, "nombre":"Tuberculosis", "url":"Frutales/Olivo/Tuberculosis/imagen.jpg", "pdf":"Frutales/Olivo/Tuberculosis/Tuberculosis.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"}
+],
+"pera":[
+{"id":1, "nombre":"Agamuzado", "url":"Frutales/Pera/Agamuzado del peral/imagen.png", "pdf":"Frutales/Pera/Agamuzado del peral/Agamuzado del peral.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Ara&#241;uelas", "url":"Frutales/Pera/Aranuela del peral/imagen.jpg", "pdf":"Frutales/Pera/Aranuela del peral/Aranuela del peral.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Gusano", "url":"Frutales/Pera/Gusano (carpocapsa)/imagen.jpg", "pdf":"Frutales/Pera/Gusano (carpocapsa)/Gusano.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Oidio", "url":"Frutales/Pera/Oidio/imagen.jpg", "pdf":"Frutales/Pera/Oidio/Oidio.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Piojo de San Jose", "url":"Frutales/Pera/Piojo de San Jose/imagen.jpg", "pdf":"Frutales/Pera/Piojo de San Jose/Piojo.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Psilido del peral", "url":"Frutales/Pera/Psilido del peral/imagen.jpg", "pdf":"Frutales/Pera/Psilido del peral/Psilido del peral.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Pulgon Lanigero", "url":"Frutales/Pera/Pulgon Lanigero/imagen.jpg", "pdf":"Frutales/Pera/Pulgon Lanigero/Pulgon Lanigero.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":2,"nombre":"Sarna del Peral", "url":"Frutales/Pera/Sarna del Peral/imagen.jpg", "pdf":"Frutales/Pera/Sarna del Peral/Sarna.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"}
+],
 
+"zapallos":[
+{"id":1, "nombre":"Vaquita del Zapallo", "url":"Hortalizas/Zapallos/Vaquita del zapallo/imagen.jpg", "pdf":"Hortalizas/Zapallos/Vaquita del zapallo/Vaquita del zapallo.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Tristeza de las Cucurbitaceas", "url":"Hortalizas/Zapallos/Tristeza/imagen.jpg", "pdf":"Hortalizas/Zapallos/Tristeza/Triteza de las cucurbitaceas.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Pulgones", "url":"Hortalizas/Zapallos/Pulgones/imagen.jpg", "pdf":"Hortalizas/Zapallos/Pulgones/Pulgones.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Peronospora", "url":"Hortalizas/Zapallos/Peronospora/imagen.jpg", "pdf":"Hortalizas/Zapallos/Peronospora/Peronospora.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Palomita Brillante", "url":"Hortalizas/Zapallos/Palomita Brillante del zapallo/imagen.jpg", "pdf":"Hortalizas/Zapallos/Palomita Brillante del zapallo/Palomita Brillante del zapallo.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Oidio", "url":"Hortalizas/Zapallos/Oidio/imagen.jpg", "pdf":"Hortalizas/Zapallos/Oidio/Oidio.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Moscas Blancas", "url":"Hortalizas/Zapallos/Moscas blancas/imagen.jpg", "pdf":"Hortalizas/Zapallos/Moscas blancas/Moscas blancas.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":2, "nombre":"Mosca Minadora", "url":"Hortalizas/Zapallos/Mosca minadora/imagen.jpg", "pdf":"Hortalizas/Zapallos/Mosca minadora/Mosca minadora.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":9, "nombre":"Mancha Foliar", "url":"Hortalizas/Zapallos/Mancha foliar/imagen.jpg", "pdf":"Hortalizas/Zapallos/Mancha foliar/Mancha foliar.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10, "nombre":"Gusanos Alambre", "url":"Hortalizas/Zapallos/Gusanos alambre/imagen.jpg", "pdf":"Hortalizas/Zapallos/Gusanos alambre/Gusanos alambre.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":11, "nombre":"Antracnosis", "url":"Hortalizas/Zapallos/Antracnosis/imagen.jpg", "pdf":"Hortalizas/Zapallos/Antracnosis/Antracnosis.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"}
+],
+
+"tomates":[
+{"id":1, "nombre":"Trips", "url":"Hortalizas/Tomate/Trips/imagen.jpg", "pdf":"Hortalizas/Tomate/Trips/Trips.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Tizon Temprano", "url":"Hortalizas/Tomate/Tizon temprano/imagen.jpg", "pdf":"Hortalizas/Tomate/Tizon temprano/Tizon temprano.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Pulgones", "url":"Hortalizas/Tomate/Pulgones/imagen.jpg", "pdf":"Hortalizas/Tomate/Pulgones/Pulgones.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Polilla del Tomate", "url":"Hortalizas/Tomate/Polilla del tomate/imagen.jpg", "pdf":"Hortalizas/Tomate/Polilla del tomate/Polilla del tomate.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Podredumbre Zonal de los Frutos", "url":"Hortalizas/Tomate/Podredumbre zonal de los frutos/imagen.jpg", "pdf":"Hortalizas/Tomate/Podredumbre zonal de los frutos/Podredumbre zonal de los frutos.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Peca Bacteriana", "url":"Hortalizas/Tomate/Peca bacteriana/imagen.jpg", "pdf":"Hortalizas/Tomate/Peca bacteriana/Peca bacteriana.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Oidiopsis", "url":"Hortalizas/Tomate/Oidipsis/imagen.jpg", "pdf":"Hortalizas/Tomate/Oidipsis/Oidipsis.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":2, "nombre":"Mosca Blanca (Trialeurodes Vaporariorum)", "url":"Hortalizas/Tomate/Mosca blanca (Trialeurodes vaporariorum)/imagen.jpg", "pdf":"Hortalizas/Tomate/Mosca blanca (Trialeurodes vaporariorum)/Mosca blanca (Trialeurodes vaporariorum).htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":9, "nombre":"Mosca blanca (Bemisia Tabaci)", "url":"Hortalizas/Tomate/Mosca blanca (Bemisia tabaci)/imagen.jpg", "pdf":"Hortalizas/Tomate/Mosca blanca (Bemisia tabaci)/Mosca blanca (Bemisia tabaci).htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10, "nombre":"Mancha Bacteriana", "url":"Hortalizas/Tomate/Mancha bacteriana/imagen.jpg", "pdf":"Hortalizas/Tomate/Mancha bacteriana/Mancha bacteriana.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":11, "nombre":"Gorgojo del Tomate", "url":"Hortalizas/Tomate/Gorgojo del tomate/imagen.jpg", "pdf":"Hortalizas/Tomate/Gorgojo del tomate/Gorgojo del tomate.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":12, "nombre":"Cancrosis Bacteriana", "url":"Hortalizas/Tomate/Cancrosis bacteriana/imagen.png", "pdf":"Hortalizas/Tomate/Cancrosis bacteriana/Cancrosis bacteriana.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"}
+],
+"ajo":[
+{"id":1, "nombre":"Acaros", "url":"Hortalizas/Ajo/Acaros/imagen.jpg", "pdf":"Hortalizas/Ajo/Acaros/Acaros.htm", "doc":"Hortalizas/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":2, "nombre":"Ajo cabeza Negra", "url":"Hortalizas/Ajo/Ajo cabeza negra/imagen.jpg", "pdf":"Hortalizas/Ajo/Ajo cabeza negra/Ajo cabeza negra.htm", "doc":"Hortalizas/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Fusariosis", "url":"Hortalizas/Ajo/Fusariosis/imagen.jpg", "pdf":"Hortalizas/Ajo/Fusariosis/Fusariosis.htm", "doc":"Hortalizas/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Nematodos", "url":"Hortalizas/Ajo/Nematodos/imagen.jpg", "pdf":"Hortalizas/Ajo/Nematodos/Nematodos.htm", "doc":"Hortalizas/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Peronospora", "url":"Hortalizas/Ajo/Peronospora/imagen.jpg", "pdf":"Hortalizas/Ajo/Peronospora/Peronospora.htm", "doc":"Hortalizas/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Podredumbre  del cuello", "url":"Hortalizas/Ajo/Podredumbre  del cuello/imagen.jpg", "pdf":"Hortalizas/Ajo/Podredumbre  del cuello/Podredumbre  del cuello.htm", "doc":"Hortalizas/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Podredumbre blanca", "url":"Hortalizas/Ajo/Podredumbre blanca/imagen.jpg", "pdf":"Hortalizas/Ajo/Podredumbre blanca/Podredumbre blanca.htm", "doc":"Hortalizas/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Podredumbre blanda bacteriana", "url":"Hortalizas/Ajo/Podredumbre blanda bacteriana/imagen.jpg", "pdf":"Hortalizas/Ajo/Podredumbre blanda bacteriana/Podredumbre blanda bacteriana.htm", "doc":"Hortalizas/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":9, "nombre":"Podredumbre verde (Moho azul)", "url":"Hortalizas/Ajo/Podredumbre verde (Moho azul)/imagen.jpg", "pdf":"Hortalizas/Ajo/Podredumbre verde (Moho azul)/Podredumbre verde (Moho azul).htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10, "nombre":"Raiz Rosada", "url":"Hortalizas/Ajo/Raiz Rosada/imagen.jpg", "pdf":"Hortalizas/Ajo/Raiz Rosada/Raiz Rosada.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":11, "nombre":"Roya", "url":"Hortalizas/Ajo/Roya/imagen.jpg", "pdf":"Hortalizas/Ajo/Roya/Roya.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":12, "nombre":"Tizon o mancha de la hoja", "url":"Hortalizas/Ajo/Tizon o mancha de la hoja/imagen.jpg", "pdf":"Hortalizas/Ajo/Tizon o mancha de la hoja/Tizon o mancha de la hoja.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":13, "nombre":"Trips", "url":"Hortalizas/Ajo/Trips/imagen.jpg", "pdf":"Hortalizas/Ajo/Trips/trips.htm", "doc":"Hortalizas/Almendro/Taladrillo de los frutales/Taladrillo.docx"}
+],
+"cebolla":[
+{"id":1, "nombre":"Acaros", "url":"Hortalizas/Cebolla/Acaros/imagen.jpg", "pdf":"Hortalizas/Cebolla/Acaros/Acaros.htm", "doc":"Hortalizas/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Fusariosis", "url":"Hortalizas/Cebolla/Fusariosis/imagen.jpg", "pdf":"Hortalizas/Cebolla/Fusariosis/Fusariosis.htm", "doc":"Hortalizas/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Nematodos", "url":"Hortalizas/Cebolla/Nematodos/imagen.jpg", "pdf":"Hortalizas/Cebolla/Nematodos/Nematodos.htm", "doc":"Hortalizas/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Peronospora", "url":"Hortalizas/Cebolla/Peronospora/imagen.jpg", "pdf":"Hortalizas/Cebolla/Peronospora/Peronospora.htm", "doc":"Hortalizas/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Podredumbre  del cuello", "url":"Hortalizas/Cebolla/Podredumbre  del cuello/imagen.jpg", "pdf":"Hortalizas/Cebolla/Podredumbre  del cuello/Podredumbre  del cuello.htm", "doc":"Hortalizas/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Podredumbre blanca", "url":"Hortalizas/Cebolla/Podredumbre blanca/imagen.jpg", "pdf":"Hortalizas/Cebolla/Podredumbre blanca/Podredumbre blanca.htm", "doc":"Hortalizas/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Podredumbre blanda bacteriana", "url":"Hortalizas/Cebolla/Podredumbre blanda bacteriana/imagen.jpg", "pdf":"Hortalizas/Cebolla/Podredumbre blanda bacteriana/Podredumbre blanda bacteriana.htm", "doc":"Hortalizas/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":9, "nombre":"Podredumbre verde (Moho azul)", "url":"Hortalizas/Cebolla/Podredumbre verde (Moho azul)/imagen.jpg", "pdf":"Hortalizas/Cebolla/Podredumbre verde (Moho azul)/Podredumbre verde (Moho azul).htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10, "nombre":"Raiz Rosada", "url":"Hortalizas/Cebolla/Raiz Rosada/imagen.jpg", "pdf":"Hortalizas/Cebolla/Raiz Rosada/Raiz Rosada.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":11, "nombre":"Roya", "url":"Hortalizas/Cebolla/Roya/imagen.jpg", "pdf":"Hortalizas/Cebolla/Roya/Roya.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":12, "nombre":"Tizon o mancha de la hoja", "url":"Hortalizas/Cebolla/Tizon o mancha de la hoja/imagen.jpg", "pdf":"Hortalizas/Cebolla/Tizon o mancha de la hoja/Tizon o mancha de la hoja.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":13, "nombre":"Trips", "url":"Hortalizas/Cebolla/Trips/imagen.jpg", "pdf":"Hortalizas/Cebolla/Trips/trips.htm", "doc":"Hortalizas/Almendro/Taladrillo de los frutales/Taladrillo.docx"}
+],
+"pimientos":[
+{"id":1, "nombre":"Trips", "url":"Hortalizas/Pimiento/Trips/imagen.jpg", "pdf":"Hortalizas/Pimiento/Trips/Trips.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Tizon Temprano", "url":"Hortalizas/Pimiento/Tizon temprano/imagen.jpg", "pdf":"Hortalizas/Pimiento/Tizon temprano/Tizon temprano.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Pulgones", "url":"Hortalizas/Pimiento/Pulgones/imagen.jpg", "pdf":"Hortalizas/Pimiento/Pulgones/Pulgones.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Tizon del Pimiento", "url":"Hortalizas/Pimiento/Tizon del pimiento/imagen.jpg", "pdf":"Hortalizas/Pimiento/Tizon del pimiento/Podredumbre zonal de los frutos.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Polilla", "url":"Hortalizas/Pimiento/Polilla/imagen.jpg", "pdf":"Hortalizas/Pimiento/Polilla/Polilla del tomate.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Peca Bacteriana", "url":"Hortalizas/Pimiento/Peca bacteriana/imagen.jpg", "pdf":"Hortalizas/Pimiento/Peca bacteriana/Peca bacteriana.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Oidiopsis", "url":"Hortalizas/Pimiento/Oidipsis/imagen.jpg", "pdf":"Hortalizas/Pimiento/Oidipsis/Oidipsis.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":2, "nombre":"Mosca Blanca (Trialeurodes Vaporariorum)", "url":"Hortalizas/Pimiento/Mosca blanca (Trialeurodes vaporariorum)/imagen.jpg", "pdf":"Hortalizas/Pimiento/Mosca blanca (Trialeurodes vaporariorum)/Mosca blanca (Trialeurodes vaporariorum).htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":9, "nombre":"Mosca blanca (Bemisia Tabaci)", "url":"Hortalizas/Pimiento/Mosca blanca (Bemisia tabaci)/imagen.jpg", "pdf":"Hortalizas/Pimiento/Mosca blanca (Bemisia tabaci)/Mosca blanca (Bemisia tabaci).htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":10, "nombre":"Mancha Bacteriana", "url":"Hortalizas/Pimiento/Mancha bacteriana/imagen.jpg", "pdf":"Hortalizas/Pimiento/Mancha bacteriana/Mancha bacteriana.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":11, "nombre":"Gorgojo del Tomate", "url":"Hortalizas/Pimiento/Gorgojo/imagen.jpg", "pdf":"Hortalizas/Pimiento/Gorgojo/Gorgojo del tomate.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"},
+{"id":12, "nombre":"Cancrosis Bacteriana", "url":"Hortalizas/Pimiento/Cancrosis bacteriana/imagen.png", "pdf":"Hortalizas/Pimiento/Cancrosis bacteriana/Cancrosis bacteriana.htm", "doc":"Frutales/Almendro/Taladrillo de los frutales/Taladrillo.docx"}
+],
+"vid":[
+{"id":1, "nombre":"Polilla de la Vid", "url":"Vid/Polilla de la vid/imagen.jpg", "pdf":"Vid/Polilla de la vid/Polilla de la vid.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":3, "nombre":"Podredumbre", "url":"Vid/Podredumbre/imagen.jpg", "pdf":"Vid/Podredumbre/Podredumbre.htm", "doc":"Frutales/Damasco/Aranuelas/Aranuelas.docx"},
+{"id":4, "nombre":"Peronospora", "url":"Vid/Peronospora/imagen.jpg", "pdf":"Vid/Peronospora/Peronospora.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"},
+{"id":6, "nombre":"Oidio", "url":"Vid/Oidio/imagen.jpg", "pdf":"Vid/Oidio/Oidio.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":5, "nombre":"Nematodos", "url":"Vid/Nematodos/imagen.jpg", "pdf":"Vid/Nematodos/Nematodos.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":7, "nombre":"Cochinilla", "url":"Vid/Cochinilla/imagen.jpg", "pdf":"Vid/Cochinilla/Cochinilla.htm", "doc":"Frutales/Almendro/Aranuelas/Aranuelas.docx"},
+{"id":8, "nombre":"Antracnosis", "url":"Vid/Antacnosis/imagen.jpg", "pdf":"Vid/Antacnosis/Antracnosis.htm", "doc":"Frutales/Duraznero/Aranuelas/Aranuelas.docx"}
 ]
 }

@@ -29,7 +29,7 @@
 <div data-role="page" id="pageone" class="main-content animated fadeInLeft">
   <div class="panel rounded shadow panel-default">
        <div class="panel-heading" style="background:white;">
-            <img src="logo_h.png" width="100%;"/>
+            <img src="img/logo_h.png" width="100%;"/>
 
 
        </div>
@@ -41,7 +41,7 @@
             <div id="blog-grid" class="row">
 				<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
                     <div class="blog-item rounded shadow">
-                        <a id="vid" href="#pagetwo?cultivo=VID" class="blog-img">
+                        <a id="vid" onclick="abrir('enfermedades.html?tipoCultivo=HORTALIZAS&cultivoId=1&cultivoNombre=AJO')" href="#pagetwo?cultivo=VID" class="blog-img">
 							<img src="img/vid.jpg" width="90%;" class="img-responsive full-width" alt="..." />
                          </a>
                          <div class="blog-details">
@@ -109,10 +109,10 @@
 
 <!-- /page -->
 <script>
+	function abrir(url){
+		window.location.replace(url);
+	}
 	$(document).ready(function(){
-		$('#vid').on("click",function(event) {
-				window.location.replace('vid.html?tipoCultivo=vid');
-		});
 		
 		$('#hortalizas').on("click",function(event) {
 				window.location.replace('hortalizas.html?tipoCultivo=hortalizas');

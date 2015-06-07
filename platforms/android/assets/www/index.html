@@ -41,7 +41,7 @@
             <div id="blog-grid" class="row">
 				<div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
                     <div class="blog-item rounded shadow">
-                        <a id="vid" href="#pagetwo?cultivo=VID" class="blog-img">
+                        <a id="vid" onclick="abrir('enfermedades.html?tipoCultivo=VID&cultivoId=1&cultivoNombre=VID')" href="#pagetwo?cultivo=VID" class="blog-img">
 							<img src="img/vid.jpg" width="90%;" class="img-responsive full-width" alt="..." />
                          </a>
                          <div class="blog-details">
@@ -97,7 +97,7 @@
 			</div>
 		</div>
   <div class="form-footer">
-			<center>Ministerio de Agroindustria y Tecnología <br/>Gobierno de Mendoza</center>
+			<center>Ministerio de Agroindustria y Tecnolog&iacute;a <br/>Gobierno de Mendoza<br/><i>Ante cualquier duda consulte a su ingeniero agronomo</i></center>
 			<div class="clearfix"></div>
 		</div>
   </div>
@@ -109,10 +109,10 @@
 
 <!-- /page -->
 <script>
+	function abrir(url){
+		window.location.replace(url);
+	}
 	$(document).ready(function(){
-		$('#vid').on("click",function(event) {
-				window.location.replace('vid.html?tipoCultivo=vid');
-		});
 		
 		$('#hortalizas').on("click",function(event) {
 				window.location.replace('hortalizas.html?tipoCultivo=hortalizas');

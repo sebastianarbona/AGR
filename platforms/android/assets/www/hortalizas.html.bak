@@ -29,7 +29,7 @@
 <div data-role="page" id="pageone" class="main-content animated fadeInLeft">
   <div class="panel rounded shadow panel-default">
        <div class="panel-heading" style="background:white;">
-            <img src="logo_h.png" width="100%;"/>
+            <img src="img/logo_h.png" width="100%;"/>
 
 
        </div>
@@ -99,7 +99,7 @@
                          </a>
                          <div class="blog-details">
                               <div class="ribbon-wrapper">
-                                   <div class="ribbon ribbon-danger">Zapallos</div>
+                                   <div class="ribbon ribbon-danger">Zapallos, Melones y Zandías</div>
                                </div>
                                <h4 class="blog-title" style="text-align:center;"></h4>
                          </div>
